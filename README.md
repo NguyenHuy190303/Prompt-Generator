@@ -1,8 +1,8 @@
-# Prompt Generator Application
+# 🎨 Prompt Generator Application
 
 The **Prompt Generator Application** is a Python-based GUI tool built with Tkinter that allows users to generate prompts based on predefined templates and suggest new prompts for review. It also includes a management script (`Management DB.ipynb`) for approving or rejecting submitted prompts via a graphical interface.
 
-## Features
+## 🌟 Features
 
 - **Generate Prompt**
   - Select from existing prompts.
@@ -28,10 +28,13 @@ The **Prompt Generator Application** is a Python-based GUI tool built with Tkint
 - **Pillow**: Image processing library for handling images in the GUI.
 - **pyperclip**: Library for copying text to the clipboard.
 
-## Installation
+## 📦 Installation
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/NguyenHuy190303/Prompt-Generator
    cd Prompt-Generator
+## 📧 Contact
+
+For any inquiries, please contact [Leo](https://www.facebook.com/Flinnismine/).
